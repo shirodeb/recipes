@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=Utility;
+Comment=freerdp
+Exec=/opt/apps/com.freerdp.www.freerdp-nightly/files/bin/freerdp-desktop.sh
+GenericName=FreeRDP
+Icon=com.freerdp.www.freerdp-nightly
+Name=FreeRDP
+Type=Application
+Terminal=true

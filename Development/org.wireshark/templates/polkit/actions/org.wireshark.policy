@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE policyconfig PUBLIC
+ "-//freedesktop//DTD PolicyKit Policy Configuration 1.0//EN"
+ "http://www.freedesktop.org/standards/PolicyKit/1/policyconfig.dtd">
+<policyconfig>
+        <action id="org.freedesktop.policykit.wireshark.root">
+                <description>Running wireshark requiring root permission!</description>
+                <description xml:lang="zh_CN">需要root权限运行Wireshark</description>
+                <message>Wireshark requires root permission to capture network traffic. Make sure you understand the risks!</message>
+                <message xml:lang="zh_CN">Wireshark需要root权限来进行网络抓包。请确保您已经了解相关风险！</message>
+                <icon_name>org.wireshark</icon_name>
+                <defaults>
+                        <allow_any>auth_admin</allow_any>
+                        <allow_inactive>auth_admin</allow_inactive>
+                        <allow_active>auth_admin</allow_active>
+                </defaults>
+                <annotate key="org.freedesktop.policykit.exec.path">/opt/apps/org.wireshark/files/bin/wireshark</annotate>
+                <annotate key="org.freedesktop.policykit.exec.allow_gui">true</annotate>
+        </action>
+</policyconfig>

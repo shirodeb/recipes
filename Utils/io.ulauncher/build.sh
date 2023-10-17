@@ -55,10 +55,10 @@ ln -s /opt/apps/$PACKAGE/files/lib/python3/dist-packages/ulauncher  /usr/lib/pyt
 EOF
     cat <<EOF >${PKG_DIR}/debian/postrm
 #!/bin/bash
-rm /usr/bin/ulauncher
-rm /usr/bin/ulauncher-toggle
-rm /usr/share/ulauncher
-rm /usr/lib/python3/dist-packages/ulauncher
+unlink /usr/bin/ulauncher
+unlink /usr/bin/ulauncher-toggle
+unlink /usr/share/ulauncher
+unlink /usr/lib/python3/dist-packages/ulauncher
 EOF
 
     chmod +x ${PKG_DIR}/debian/postinst

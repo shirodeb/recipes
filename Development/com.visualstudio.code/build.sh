@@ -64,8 +64,8 @@ EOF
     chmod +x ${PKG_DIR}/debian/post{inst,rm}
 
     # Move and modify appdata/code.appdata.xml
-    pushd $APP_DIR/entries/appdata/ >/dev/null
+    pushd $APP_DIR/entries/appdata/
     mv code.appdata.xml $PACKAGE.appdata.xml
     sed -i "s/code\.desktop/$PACKAGE.desktop/g" $PACKAGE.appdata.xml
-    popd >/dev/null
+    popd
 }

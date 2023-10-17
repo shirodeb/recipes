@@ -14,11 +14,12 @@
 
 ###### The check update function is diabled since we does not use UOS in building system. 
 ### Some function is still ugly but i'm lazy to fix it. 
+
 VERSION_FIREFOX_IN_MOZILLA=`curl -fI 'https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=zh-CN' | grep -o 'firefox-[0-9.]\+[0-9]' | sed 's/.*firefox-//'`
 ## Here we give the value to version
 version=$VERSION_FIREFOX_IN_MOZILLA
 
-export PACKAGE="org.mozilla.firefox-nal "
+export PACKAGE="org.mozilla.firefox-nal"
 export NAME="Firefox国际版"
 export VERSION="$version"
 export ARCH="amd64"

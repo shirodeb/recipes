@@ -1,0 +1,286 @@
+camunda-modeler	Camunda Modeler	https://github.com/camunda/camunda-modeler/
+snipcommand	SnipCommand	https://github.com/gurayyarar/SnipCommand
+inboxer	Inboxer	https://github.com/denysdovhan/inboxer
+brim	Brim	https://github.com/brimsec/brim
+codex	Codex	https://github.com/jcv8000/Codex
+hashtag	HashTag	https://github.com/MrAnyx/HashTag
+akiee	Akiee	https://github.com/rockiger/akiee
+preserver	Preserver	https://github.com/hsbalar/Preserver
+deco-ide	Deco IDE	https://github.com/decosoftware/deco-ide
+excel-parser-processor	Excel Parser Processor	https://github.com/btargac/excel-parser-processor
+studymd	StudyMD	https://github.com/jotron/StudyMD
+laradumps	LaraDumps	https://github.com/laradumps/app
+mylottery	MyLottery	https://gitee.com/gemron/myLottery
+web-toolbox	Web Toolbox	https://github.com/amwebexpert/etoolbox
+aliceandbob-io	aliceandbob.io	https://github.com/aliceandbob-io/aliceandbob-desktop
+homura	homura	https://github.com/Saul-Mirone/homura
+karaokemugen	Karaoke Mugen	https://gitlab.com/karaokemugen/karaokemugen-app
+metronome-wallet	Metronome Wallet	https://github.com/autonomoussoftware/metronome-wallet-desktop
+magiccap	MagicCap	https://github.com/MagicCap/MagicCap
+katana	Katana	https://github.com/bluegill/katana
+weltenschaft	Weltenschaft	https://github.com/HoubkneghteS/Weltenschaft
+jumpfm	JumpFm	https://github.com/Gilad-Kutiel-App/jumpfm
+unlimited-clipboard	clipboard-manager-electron	https://github.com/unlimited-clipboard/unlimited-clipboard
+cromberg	Cromberg	https://github.com/z17/home-accounting-system
+prosecrec	ProSecrec	https://github.com/HydroCarbons/ProSecrec
+peacock	Peacock	https://github.com/peacockweb/peacock
+cursor-highlight	Cursor Highlight	https://github.com/Hazyzh/cursor-highlight
+wdos	wdOS	https://github.com/Webdeskme/wdOS/releases
+musify	Musify	https://github.com/SrGMC/musify
+r2e-todoworks	r2e-todoworks	https://github.com/tuantvk/r2e-todoworks
+remindaz	Remindaz	https://github.com/tariibaba/remindaz
+neucalculator	NeuCalculator	https://github.com/moh3n9595/neu-calculator
+markdown-c3	Markdown C3	https://github.com/el3um4s/markdown-c3/blob/master/README.md
+wow-stat	WoW Stat	https://github.com/arzynik/wowstat
+free-chess-club	Free Chess Club	https://github.com/freechessclub
+electronim	ElectronIM	https://github.com/manusa/electronim
+display-dj	display-dj	https://github.com/synle/display-dj
+tidgi	TidGi	https://github.com/tiddly-gittly/TidGi-Desktop
+pomodoro-logger	pomodoro-logger	https://github.com/zxch3n/PomodoroLogger
+fairshare	FAIRshare	https://github.com/fairdataihub/FAIRshare
+zefenify	Zefenify	https://github.com/Zefenify/Wolf-Cola
+dixa	Dixa	https://github.com/dixahq/dixa-desktop-app-release
+paperarxiv	PaperArxiv	https://github.com/fuzihaofzh/PaperArxiv
+upnotes	domodel-diary	https://github.com/thoughtsunificator/domodel-diary-electron
+twittertron	TwitterTron	https://github.com/afractal/twittertron-app
+moderndeck	ModernDeck for Twitter	https://github.com/dangeredwolf/ModernDeck
+unofficial-zalo	Unofficial Zalo	https://github.com/SafeStudio/unofficial-zalo
+calcy	Calcy	https://github.com/VarunDevPro/calcy
+monokle	Monokle	https://github.com/kubeshop/monokle
+jamovi	jamovi	https://github.com/jamovi/jamovi
+openbazaar	OpenBazaar	https://github.com/OpenBazaar/openbazaar-desktop
+mr-noplay	Mr Noplay	https://github.com/scris/mrnoplay
+prettyearth	PrettyEarth	https://github.com/evertdespiegeleer/PrettyEarth
+racompass	Racompass	https://github.com/racompass/racompass
+blink-mind-desktop	Blink Mind Desktop	https://github.com/awehook/blink-mind-desktop
+trilium-notes	Trilium Notes	https://github.com/zadam/trilium
+remindr	Remindr	https://github.com/MrDavidRios/remindr_releases
+spaceeye	SpaceEye	https://github.com/KYDronePilot/SpaceEye
+oversetter	Oversetter	https://github.com/4gray/oversetter
+playcode	PlayCode	https://github.com/playcode/playcode-desktop
+nodemailer-app	NodemailerApp	https://github.com/nodemailer/nodemailer-app
+deckmaster	DeckMaster	https://github.com/TheOtterlord/deckmaster
+image-optimizer	Image Optimizer	https://github.com/antonreshetov/image-optimizer
+papercubes	PaperCubes	https://github.com/FlorianFe/PaperCubes
+cloudcmd	Cloud Commander	https://github.com/coderaiser/cloudcmd
+monolith-code	monolith code	https://github.com/Haeri/MonolithCode2
+cypress	Cypress	https://github.com/cypress-io/cypress
+believers-sword	Believers Sword	https://github.com/Bible-Projects/believers-sword-app
+gitmoji	gitmoji	https://github.com/carloscuesta/gitmoji
+mytools	MyTools	https://github.com/hiql/mytools-desktop
+subtitler	Subtitler	https://github.com/s8sachin/subtitler
+visual-family-tree	Visual Family Tree	https://github.com/Jisco/VisualFamilyTree
+invizi	Invizi	https://github.com/invizi/invizi/
+arizona	Arizona	https://github.com/strnadchristopher/arizona
+poddycast-app	Poddycast	https://github.com/MrChuckomo/poddycast
+domodel-diary	domodel-diary	https://github.com/thoughtsunificator/domodel-diary-electron
+deckboard	Deckboard	https://github.com/rivafarabi/deckboard
+youtube-music-for-desktop	Youtube Music for Desktop (Unofficial)	https://github.com/Venipa/ytmdesktop2
+social-amnesia	Social Amnesia	https://github.com/Nick-Gottschlich/Social-Amnesia
+themebuilder	themebuilder	https://github.com/wurde/themebuilder
+lbry-desktop	LBRY Desktop	https://github.com/lbryio/lbry-desktop
+nicepage	Nicepage	https://github.com/NicepageApp/Nicepage
+barklarm	Barklarm	https://github.com/kanekotic/barklarm
+dotgrid	Dotgrid	https://hundredrabbits.itch.io/dotgrid
+cumulus	Cumulus	https://github.com/gillesdemey/Cumulus
+f-curator	F-Curator	https://github.com/xizon/F-Curator/tree/main/package
+domterm	DomTerm	https://github.com/PerBothner/DomTerm
+extraterm	Extraterm	https://github.com/sedwards2009/extraterm
+focused-task	Focused Task	https://github.com/RStankov/FocusedTask
+manyverse	Manyverse	https://gitlab.com/staltz/manyverse
+qmui-web	QMUI Web	https://github.com/QMUI/qmui_web_desktop
+playback	Playback	https://github.com/mafintosh/playback
+multrin	Multrin	https://github.com/sentialx/multrin
+spinshare-client	SpinShare Client	https://github.com/SpinShare/client
+horen	Horen	https://github.com/kevinjobs/Horen
+wanna-class	Wanna Class	https://github.com/MissterHao/WannaClass
+papyrus	Papyrus	https://github.com/morkro/papyrus
+school-timetable	Timetable	https://github.com/KDani-99/school_timetable
+masscode	massCode	https://github.com/antonreshetov/massCode
+geniemoji	Geniemoji	https://github.com/virejdasani/Geniemoji
+stopawu	Stopawu	https://github.com/tariibaba/stopawu
+weflow	WeFlow	https://github.com/weixin/WeFlow
+commandeer	Commandeer	https://github.com/commandeer/open
+dopamine	Dopamine	https://github.com/digimezzo/dopamine
+csgo-tracker	csgo-tracker	https://github.com/davidaf3/csgo-tracker
+flawesome	Flawesome	https://github.com/ashishBharadwaj/flawesome
+container-ps	Container PS	https://github.com/Toinane/container-ps
+authme	Authme	https://github.com/Levminer/authme
+kalk	kalk	https://github.com/monsterkodi/kalk
+clovery	Clovery	https://github.com/webcatalog/neutron
+kube-dev-dashboard	Kube Dev Dashboard	https://github.com/prsh9/KubeCtl-Dashboard
+snailfm	SnailFM	https://github.com/snaildos/SnailFM-Application
+leafview	LeafView	https://github.com/sprout2000/leafview
+cocos-creator	Cocos Creator	https://github.com/cocos-creator/engine
+protegopdf	ProtegoPDF	https://github.com/bbalvanera/protego-pdf
+stay-hydrated	stay-hydrated	https://github.com/QuentinGruber/stay-hydrated
+kube-forwarder	Kube Forwarder	https://github.com/pixel-point/kube-forwarder
+merge-request-notifier	Merge Request Notifier	https://github.com/codecentric/merge-request-notifier
+photoscreensaver	PhotoScreenSaver	https://github.com/RandScullard/photo-screen-saver
+backlog	Backlog	https://github.com/czytelny/backlog.git
+tilde	Tilde	https://github.com/paologiua/tilde
+quba-e-invoice-viewer	Quba E-Invoice Viewer	https://github.com/ZUGFeRD/quba-viewer
+kahla	Kahla	https://github.com/AiursoftWeb/Kahla.App
+hbbatchbeast	HBBatchBeast	https://github.com/HaveAGitGat/HBBatchBeast
+md5app	MD5 Application	https://github.com/mhmdkrmabd/md5-app
+waqt	Waqt	https://github.com/arafatamim/waqt
+tunlookup	Tunlookup	https://github.com/thephucit/tunlookup
+storaji	Storaji	https://github.com/IndomaximTechId/storaji
+markdownify	Markdownify	https://github.com/amitmerchant1990/electron-markdownify
+scratch-for-discord	Scratch For Discord	https://github.com/scratch-for-discord/scratch-for-discord-app
+data-pixels-playground	Data Pixels Playground	https://github.com/gmattie/Data-Pixels
+unfx-proxy-checker	Unfx Proxy Checker	https://github.com/assnctr/unfx-proxy-checker
+vagrant-manager	Vagrant Manager	https://github.com/absalomedia/vagrant-manager
+code-notes	Code Notes	https://github.com/lauthieb/code-notes
+premid	PreMiD	https://github.com/PreMiD/PreMiD
+music-player2	Music Player	https://github.com/Tenpi/Music-Player
+streambop	StreamBop	https://github.com/snaildos/StreamBop
+unofficial-riot-games-launcher	Unofficial Riot Games Launcher	https://github.com/Eliosth/UNOFFICIAL-Riot-Games-Launcher
+nimblenote	nimblenote	https://github.com/nimblenote/nimblenote
+wizard-mirror	WizardMirror	https://www.github.com/Sanjit1/WizardMirror
+peershare	PeerShare	https://github.com/connor-davis/peershare
+ebtcalc	EBTCalc	https://github.com/EricTerrell/EBTCalc
+jasper	Jasper	https://github.com/jasperapp/jasper
+mobirise	Mobirise	https://github.com/Mobirise/Mobirise
+metastream	Metastream	https://github.com/samuelmaddock/metastream
+simple-finder	Simple-Finder	https://github.com/seniya/electron-finder-normal
+transee	Transee	https://github.com/alessioforte/transee
+agora-flat	Agora Flat	https://github.com/netless-io/flat
+dbcloner	DBcloner	https://github.com/felipeleivav/dbcloner-app
+standup-picker	Standup Picker	https://github.com/Mokkapps/scrum-daily-standup-picker
+heads-tails	heads-tails	https://github.com/SmartHoldemDAPPs/heads-tails
+graycrown	Graycrown	https://github.com/zeankundev/graycrown
+logsnag	LogSnag	https://github.com/LogSnag/LogSnag
+bibisco	bibisco	https://github.com/andreafeccomandi/bibisco/
+saadhn	Saadhn	https://github.com/arkokoley/saadhn
+worksheets-data-studio	WORKSHEETS Data Studio	https://github.com/FalconSoft/worksheets-data.studio
+tch-filector	FileCtor	https://github.com/tomaschyly/FileCtor
+webnet	Web Net	https://github.com/MEGAMINDMK
+html-builder	HTML Builder	https://github.com/yikuansun/html-builder
+top-browser	Top Browser	https://bitbucket.org/speedydemon/electron_top_browser/
+google-assistant-unofficial-desktop-client	Unofficial Desktop Client for Google Assistant	https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client
+tofino	Tofino	https://github.com/mozilla/tofino
+q-player	Q-player	https://github.com/Toooorch/q-player/
+expresslrs-configurator	ExpressLRS Configurator	https://github.com/ExpressLRS/ExpressLRS-Configurator
+runlet	Runlet	https://github.com/runletapp/runlet
+streamlabs-obs	Streamlabs OBS	https://github.com/stream-labs/streamlabs-obs
+keycombiner	KeyCombiner	https://github.com/tkainrad/keycombiner
+symphony	Symphony	https://github.com/symphonyoss/SymphonyElectron
+ohhai-browser	OhHai Browser	https://github.com/OhHaiBrowser/Browser/
+anote	ANote	https://github.com/AnotherNote/anote
+spofly	spofly	https://github.com/itsjustaplant/spofly
+movieprint	MoviePrint	https://github.com/fakob/MoviePrint_v004
+cider	Cider	https://github.com/ciderapp/Cider
+ioui	ioui	https://github.com/shivang-pokar/ioui
+cyapass	CYaPass	https://github.com/raddevus/CYaPass-Electron
+system-designer	System Designer	https://github.com/design-first/system-designer
+geeks-diary	Geeks Diary	https://github.com/seokju-na/geeks-diary
+kaplan-desktop	Kaplan Desktop	https://github.com/kaplanPRO/kaplan-desktop
+trivia-desktop	Trivia Desktop	https://github.com/Trivia-Bot-Discord/trivia-desktop.git
+healthi	healthi	https://github.com/pablopunk/healthi-app
+encrypt0r	encrypt0r	https://github.com/kunalnagar/encrypt0r
+stockifier	Stockifier	https://github.com/jainsamyak/Stockifier
+r6rc	R6RC	https://github.com/austinleath/r6rc
+translation-editor	Translation Editor	https://bitbucket.org/bflower/react-intl-editor
+compact-log-viewer	Compact Log Viewer	https://github.com/warrenbuckley/Compact-Log-Format-Viewer
+covid-19-cases-overview	Covid-19 cases overview	https://github.com/Creator-360/Covid-19-cases-overview
+sqlui-native	sqlui-native	https://github.com/synle/sqlui-native
+catalyst	Catalyst Web Browser	https://github.com/JaydenDev/Catalyst
+final-countdown	Final-Countdown	https://github.com/hunterphillips/countdown
+sigma-file-manager	Sigma File Manager	https://github.com/aleksey-hoffman/sigma-file-manager
+dusk-player	Dusk Player	https://github.com/Aveek-Saha/MusicPlayer
+quail	Quail	https://github.com/1000ch/quail
+pomolectron	Pomolectron	https://github.com/amitmerchant1990/pomolectron
+drpcm	Discord RPC Maker	https://github.com/thatonecalculator/discordrpcmaker
+crypter	Crypter	https://github.com/HR/Crypter
+pitv	PiTV	https://github.com/ozankaraali/PiTV
+octopi-init	octopi-init	https://github.com/OutsourcedGuru/octopi-init/blob/master/electron_README.md
+silex	Silex website builder	https://github.com/silexlabs/silex-desktop/
+primitive-nextgen	primitive.nextgen	https://github.com/cielito-lindo-productions/primitive.nextgen
+code-sketch	Code Sketch	https://github.com/keelii/code-sketch
+cliptext	cliptext	https://github.com/aaabhilash97/cliptext
+protoman	Protoman	https://github.com/spluxx/protoman
+altus	Altus	https://github.com/amanharwara/altus
+eagluet	eagluet	https://github.com/surajrathod/eagluet
+electron-app-store	Electron App Store (Unofficial)	https://github.com/Electron-Store/electron-app-store
+ten-hands	Ten Hands	https://github.com/saisandeepvaddi/ten-hands
+yet-another-gitbook-reader	Yet-Another-Gitbook-Reader	https://github.com/gnu4cn/gitbook-reader-app
+local-mock-server	Local Mock Server	https://github.com/jayakumarreddy/Local-Mock-Server/
+helioslauncher	Helios Launcher	https://github.com/dscalzi/HeliosLauncher
+instatron	Instatron	https://github.com/alexdevero/instatron
+cozy-desktop	Cozy Desktop	https://github.com/cozy-labs/cozy-desktop
+network-assembler	NetworkAssembler	https://github.com/kir486680/Network-Assembler
+stinker	Stinker	https://github.com/PatentLobster/stinker
+jukeboks	Jukeboks	https://github.com/hirohisa/Jukeboks
+youtube-music-desktop-app	YTMDesktop App	https://github.com/adlerluiz/ytmdesktop
+domain-book	Domain Book	https://github.com/darawish/domainbook
+sturdy	Sturdy	https://github.com/sturdy-dev/sturdy
+threema-for-desktop	Threema For Desktop	https://github.com/GeekCornerGH/Threema-For-Desktop
+devdocs-app	devdocs-app	https://github.com/egoist/devdocs-app
+1clipboard	1Clipboard	https://github.com/wiziple/1clipboard
+image-shrinker	ImageShrinker	https://github.com/stefansl/image-shrinker
+clipboard-manager-electron	clipboard-manager-electron	https://github.com/dotenorio/clipboard-manager-electron.git
+blankup	BlankUp	https://github.com/HoverBaum/BlankUp-Electron
+multiple-file-manager	Multiple File Manager	https://github.com/dhanyn10/multiple-file-manager
+corda-node-explorer	Corda Node Explorer	https://github.com/corda/node-explorer
+lot-lot-of-things	LoT - Lot of Things	https://github.com/Jisco/LotOfThings
+lisk-hub	Lisk Hub	https://github.com/LiskHQ/lisk-hub
+ubauth	UbAuth	https://github.com/chrisenytc/ubauth
+deskfiler	Deskfiler	https://github.com/deskfiler/deskfiler
+teseve	Tèsèvè	https://github.com/teseve/teseve
+u-stair	U Stair	https://github.com/afmorenosa/U_Stair
+graviton-editor	Graviton Editor	https://github.com/Graviton-Code-Editor/Graviton-App
+penpot-desktop	Penpot Desktop	https://code.korbsstudio.com/KorbsStudio/Penpot-Desktop
+twinkle-tray	Twinkle Tray	https://github.com/xanderfrangos/twinkle-tray
+swifty	Swifty	https://github.com/alchaplinsky/swifty
+google-chat-electron	Unofficial Google Chat App	https://github.com/ankurk91/google-chat-electron
+lightproxy	LightProxy	https://github.com/alibaba/lightproxy
+i18n-manager	i18n Manager	https://github.com/gilmarsquinelato/i18n-manager
+dbglass	DBGlass	https://github.com/web-pal/DBGlass
+local-by-flywheel	Local by Flywheel	https://github.com/getflywheel/local-components
+responsivize	Responsivize	https://github.com/virejdasani/Responsivize
+photo-viewer	Photo Viewer	https://github.com/Tenpi/Photo-Viewer
+network-status-check	Network Status Check	https://github.com/cjerrington/net-check
+picturama	Picturama	https://github.com/picturama/picturama
+pic-crop	Pic Crop	https://github.com/ujw0l/pic-crop
+reach-podcast-player	Reach Podcast Player	https://github.com/SolarFloss/Reach-Podcast-Player
+screentray	ScreenTray	https://github.com/DSnopov/screentray-distribution
+vivifyscrum	VivifyScrum	https://github.com/Vivify-Ideas/vivifyscrum2-electron/
+cryptoarm-gost	CryptoARM GOST	https://github.com/TrustedRu/CryptoARMGOST
+vikunja	Vikunja	https://code.vikunja.io/desktop
+enclina-messenger	Enclica Messenger	https://github.com/bluethefoxofficial/CreativePublicMessenger
+texpaste	texpaste	https://github.com/jonasmusall/texpaste
+ridereceipts	Ride Receipts	https://github.com/ridereceipts/ridereceipts
+moosync	Moosync	https://github.com/Moosync/Moosync
+lsdeer	lsdeer	https://github.com/AlexanderPershin/lsdeer
+e-search	eSearch	https://github.com/xushengfeng/eSearch
+enderframework	EnderFramework	https://github.com/EnderAdel/EnderFramework
+raider-for-instagram	Raider for Instagram	https://github.com/AssetKid/raider-release
+timeseriesadmin	Time Series Admin	https://github.com/timeseriesadmin/timeseriesadmin
+tabby-terminal	Tabby Terminal	https://github.com/Eugeny/tabby
+todometer	todometer	https://github.com/cassidoo/todometer/
+mediachips	mediaChips	https://github.com/fupdec/mediaChips
+browserosaurus	Browserosaurus	https://github.com/will-stone/browserosaurus
+beveldm	Bevel Download Manager	https://github.com/tariibaba/beveldm
+refviewer	RefViewer	https://github.com/starbrat/refviewer
+open-log-viewer	Open Log Viewer	https://github.com/tmoreno/open-log-viewer
+socially	Socially	https://github.com/JackHumphries9/Socially
+screencat	ScreenCat	https://github.com/maxogden/screencat
+requestly	Requestly	https://github.com/requestly/requestly-desktop-app
+subordination	Subordination	https://github.com/sunabozu/subordination
+thismypc	ThisMyPC	https://github.com/supunlakmal/thismypc
+janpankana	Janpankana	https://github.com/styunan/japankana
+yeoman	Yeoman	https://github.com/yeoman/yeoman-app
+clippo	clippo	https://github.com/monsterkodi/clippo
+kappo	kappo	https://github.com/monsterkodi/kappo
+taskana	Taskana	https://github.com/mountainash/taskana
+gitify	Gitify	https://github.com/manosim/gitify
+recode-converter	Recode Converter	https://github.com/murgatt/recode-converter
+seapig	SeaPig	https://github.com/yasumichi/seapig
+seobrowse	SEOBrowse	https://github.com/seobrowse/serp/
+minimal-image-viewer	Minimal Image Viewer	https://github.com/hayhaydz/MIV
+boxhero	BoxHero	https://github.com/bgpworks/boxhero-electron
+elephicon	Elephicon	https://github.com/sprout2000/elephicon
+http-toolkit	HTTP Toolkit	https://github.com/httptoolkit
+kinesis-ci	Kinesis CI	https://github.com/Kinesis-CI/education-and-innovation
+react-explorer	React-Explorer	https://github.com/warpdesign/react-explorer

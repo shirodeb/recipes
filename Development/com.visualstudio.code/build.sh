@@ -3,7 +3,7 @@
 export PACKAGE="com.visualstudio.code"
 export NAME="Visual Studio Code"
 export VERSION="1.83.1"
-export ARCH="amd64"
+export ARCH=$(utils.misc.get_current_arch)
 export URL="visual-studio-code_${VERSION}_${ARCH}.deb::https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-${ARCH/amd/x}"
 # autostart,notification,trayicon,clipboard,account,bluetooth,camera,audio_record,installed_apps
 export REQUIRED_PERMISSIONS=""

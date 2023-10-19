@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Firefox
+Name[zh_CN]=Firefox火狐浏览器
+Version=1.0
+Exec=/opt/apps/org.mozilla.firefox-nal/files/firefox/firefox %U
+Comment=Firefox
+Icon=org.mozilla.firefox-nal
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml_xml;application/x-mimearchive;x-scheme-handler/http;x-scheme-handler/https;

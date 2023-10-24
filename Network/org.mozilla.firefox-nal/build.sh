@@ -18,7 +18,7 @@ function prepare() {
 }
 
 function build() {
-    cp -r $SRC_DIR/${UNARCHIVED_SRC_DIRS[0]}/* $APP_DIR/files/
+    cp -r $SRC_DIR/${SRC_NAMES[0]}/* $APP_DIR/files/
 
     mkdir -p $APP_DIR/entries/applications
     mkdir -p $APP_DIR/entries/icons/

@@ -29,7 +29,7 @@ function prepare() {
 }
 
 function build() {
-    SRC_DIR="$SRC_DIR/${UNARCHIVED_SRC_DIRS[0]}/Clash for Windows-${VERSION}-${ARCH/amd/x}-linux"
+    SRC_DIR="$SRC_DIR/${SRC_NAMES[0]}/Clash for Windows-${VERSION}-${ARCH/amd/x}-linux"
     cp -r "$SRC_DIR/"* "$APP_DIR/files"
     cp -r "$ROOT_DIR"/templates/entries/* "$APP_DIR/entries/"
     utils.desktop.edit "Version" "$VERSION" "$APP_DIR/entries/applications/com.github.clash-for-windows.desktop"

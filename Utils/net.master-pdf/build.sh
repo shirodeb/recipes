@@ -9,7 +9,7 @@ export URL="https://code-industry.net/public/master-pdf-editor-${VERSION}-qt5.9.
 export REQUIRED_PERMISSIONS=""
 
 function build() {
-    local DEB_SRC_DIR="$SRC_DIR/${UNARCHIVED_SRC_DIRS[0]}"
+    local DEB_SRC_DIR="$SRC_DIR/${SRC_NAMES[0]}"
     if [[ $1 == "check" ]]; then
         where exa >/dev/null && exa --tree $DEB_SRC_DIR && exit 0
         where tree >/dev/null && tree $DEB_SRC_DIR && exit 0

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=Utility;
+Comment=QtScrcpy
+Exec=/opt/apps/com.qtscrcpy/files/run.sh %U
+Icon=com.qtscrcpy
+Type=Application
+Name=QtScrcpy
+Terminal=false
+Type=Application

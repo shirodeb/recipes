@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Calibre
+Version=1.0
+Exec=ablrun /opt/apps/com.calibre-ebook.calibre/files/calibre
+Comment=calibre
+Icon=com.calibre-ebook.calibre
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=Utility;

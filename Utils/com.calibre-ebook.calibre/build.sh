@@ -20,4 +20,5 @@ function build() {
     cp -r $SRC_DIR/calibre-$VERSION-${ARCH/amd/x86_}/* $APP_DIR/files/
     cp -r $ROOT_DIR/templates/entries/* $APP_DIR/entries/
     cp $ROOT_DIR/templates/$ARCH/libfreetype.so.6 $APP_DIR/files/lib
+    cp $ROOT_DIR/templates/postinst $PKG_DIR/debian/postinst
 }

@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+if [[ $(uname -m) == "aarch64" ]]; then
+	sed -i "s#ABL_TARGET_LD_SO_PATH=/lib64/ld-linux-x86-64.so.2#ABL_TARGET_LD_SO_PATH=/lib/ld-linux-aarch64.so.1#" /usr/bin/ablrun-normal
+fi

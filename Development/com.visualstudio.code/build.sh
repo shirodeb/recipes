@@ -8,6 +8,12 @@ export URL="visual-studio-code_${VERSION}_${ARCH}.deb::https://code.visualstudio
 # autostart,notification,trayicon,clipboard,account,bluetooth,camera,audio_record,installed_apps
 export REQUIRED_PERMISSIONS=""
 
+function prepare() {
+    if [[ "$ARCH" == "arm64" ]]; then
+        export PACKAGE="$PACKAGE.uos"
+    fi
+}
+
 function build() {
     local DEB_SRC_DIR="$SRC_DIR/${SRC_NAMES[0]}"
     if [[ $1 == "check" ]]; then

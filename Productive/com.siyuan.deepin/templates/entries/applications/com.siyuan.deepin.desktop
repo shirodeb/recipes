@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=SiYuan
+Name[zh_CN]=思源笔记
 Exec=/opt/apps/com.siyuan.deepin/files/siyuan %U
 Terminal=false
 Type=Application

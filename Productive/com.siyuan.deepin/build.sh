@@ -42,7 +42,7 @@ function prepare() {
 function build() {
     pushd $SRC_DIR
     pushd kernel
-    GO111MODULE=on CGO_ENABLED=1 go build --tags "fts5" -o "../app/kernel-linux/SiYuan-Kernel"
+    GO111MODULE=on CGO_ENABLED=1 go build --tags "fts5" -o "../app/kernel-linux/SiYuan-Kernel" -v -ldflags "-s -w -X github.com/siyuan-note/siyuan/kernel/util.Mode=prod"
     popd
     pushd app
     sed -i "/.*target: \"AppImage\"/d; s/tar.gz/dir/" electron-builder-linux.yml

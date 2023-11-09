@@ -50,7 +50,11 @@ function build() {
     pnpm --registry https://r.cnpmjs.org/ i
     pnpm run build
     pnpm run dist-linux
-    cp -r ./build/linux-unpacked/* $APP_DIR/files/
+    if [ "$ARCH" == "arm64" ]; then
+        cp -r ./build/linux-arm64-unpacked/* $APP_DIR/files/
+    else
+        cp -r ./build/linux-unpacked/* $APP_DIR/files/
+    fi
     popd
     popd
 

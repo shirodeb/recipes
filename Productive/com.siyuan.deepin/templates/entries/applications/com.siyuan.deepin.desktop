@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SiYuan
+Exec=/opt/apps/com.siyuan.deepin/files/siyuan %U
+Terminal=false
+Type=Application
+Icon=com.siyuan.deepin
+StartupWMClass=SiYuan
+Comment=Refactor your thinking
+Categories=Utility;

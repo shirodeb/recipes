@@ -16,7 +16,7 @@ export PROVIDE=""
 export HOMEPAGE="https://github.com/barry-ran/QtScrcpy"
 export AUTHOR="barry-ran"
 
-export INGREDIENTS=("cmake-3.27.4-$ARCH" "qt5-5.15.10-$ARCH")
+export INGREDIENTS=("cmake" "qt5_opengl-5.15.10")
 
 function prepare() {
     if [[ "$1" != "download" && "$1" != "make" ]]; then

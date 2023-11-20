@@ -2,7 +2,7 @@
 
 export PACKAGE="org.wireshark"
 export NAME="Wireshark"
-export VERSION="4.0.10"
+export VERSION="4.2.0"
 export ARCH=$(utils.misc.get_current_arch)
 export URL="https://2.na.dl.wireshark.org/src/wireshark-${VERSION}.tar.xz"
 export REQUIRED_PERMISSIONS=""
@@ -21,7 +21,15 @@ function build() {
     export DESTDIR=${PKG_DIR}
 
     pushd wireshark-${VERSION}
-    cmake -B build -DCMAKE_INSTALL_PREFIX=/opt/apps/${PACKAGE}/files/ -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTING=OFF -DCMAKE_PREFIX_PATH=$DESTDIR/opt/apps/${PACKAGE}/files/ &&
+    if [[ -z $(grep "#include <stdint.h>" capture/capture_ifinfo.h) ]]; then
+        sed -i "16i#include <stdint.h>" capture/capture_ifinfo.h
+    fi
+
+    if [[ -z $(grep "#include <QRegularExpression>" ui/qt/models/manuf_table_model.h) ]]; then
+        sed -i "16i#include <QRegularExpression>" ui/qt/models/manuf_table_model.h
+    fi
+
+    cmake -B build -DCMAKE_INSTALL_PREFIX=/opt/apps/${PACKAGE}/files/ -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTING=OFF -DCMAKE_PREFIX_PATH=$DESTDIR/opt/apps/${PACKAGE}/files/ -DUSE_qt6=OFF &&
         cmake --build build -j $(nproc) &&
         cmake --build build --target install
     popd

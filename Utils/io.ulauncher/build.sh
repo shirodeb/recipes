@@ -2,7 +2,7 @@
 
 export PACKAGE="io.ulauncher"
 export NAME="Ulauncher"
-export VERSION="5.15.4"
+export VERSION="5.15.6"
 export ARCH="all"
 export URL="https://github.com/Ulauncher/Ulauncher/releases/download/${VERSION}/ulauncher_${VERSION}_all.deb"
 # autostart,notification,trayicon,clipboard,account,bluetooth,camera,audio_record,installed_apps

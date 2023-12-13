@@ -2,7 +2,7 @@
 
 export PACKAGE="net.master-pdf"
 export NAME="Master PDF Editor"
-export VERSION="5.9.61"
+export VERSION="5.9.81"
 export ARCH="amd64"
 export URL="https://code-industry.net/public/master-pdf-editor-${VERSION}-qt5.9.${ARCH/amd/x86_}.deb"
 # autostart,notification,trayicon,clipboard,account,bluetooth,camera,audio_record,installed_apps

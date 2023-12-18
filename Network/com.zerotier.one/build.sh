@@ -2,10 +2,11 @@
 
 export PACKAGE="com.zerotier.one"
 export NAME="ZeroTier One"
-export VERSION="1.12.2"
+export UPSTREAM_VERSION="1.12.2"
+export VERSION="${UPSTREAM_VERSION}-fix1"
 export ARCH=$(utils.misc.get_current_arch)
 export URL=(
-    "https://download.zerotier.com/RELEASES/$VERSION/dist/debian/buster/zerotier-one_${VERSION}_$ARCH.deb"
+    "https://download.zerotier.com/RELEASES/$UPSTREAM_VERSION/dist/debian/buster/zerotier-one_${UPSTREAM_VERSION}_$ARCH.deb"
     "zerotier-gui-master.zip::https://github.com/tralph3/ZeroTier-GUI/archive/refs/heads/master.zip"
 )
 # autostart,notification,trayicon,clipboard,account,bluetooth,camera,audio_record,installed_apps
@@ -28,6 +29,20 @@ function build() {
     cp $SRC_DIR/ZeroTier-GUI-master/img/zerotier-gui.png $APP_DIR/entries/icons/hicolor/48x48/apps/com.zerotier.one.png
     chmod +x $APP_DIR/files/zerotier-gui
     local EXEC_PATH="zerotier-gui"
+
+    # Wrap zerotier-one
+    if [[ $ARCH == "amd64" ]]; then
+        cp -RT $ROOT_DIR/templates/libs-amd64 $APP_DIR/files/libs
+        pushd $PKG_DIR/usr/sbin
+        mv zerotier-one $APP_DIR/files/zerotier-one
+        cat <<EOF >zerotier-one
+#!/bin/bash
+export LD_LIBRARY_PATH="/opt/apps/$PACKAGE/files/libs:\$LD_LIBRARY_PATH"
+exec -a "\$0" /opt/apps/$PACKAGE/files/zerotier-one "\$@"
+EOF
+        chmod +x zerotier-one
+        popd
+    fi
 
     # Collect .desktop
     log.debug "Collect .desktop files..."

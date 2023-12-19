@@ -23,7 +23,7 @@ function build() {
     cp -R $SRC_DIR/cataclysmdda-0.F/* $APP_DIR/files
     utils.icon.collect $APP_DIR/files/data/xdg
     utils.desktop.collect $APP_DIR/files/data/xdg
-    utils.desktop.edit "Exec" "bash -c \"/opt/apps/$PACKAGE/files/cataclysm-launcher --userdir \\\$HOME/.local/share/cdda\""
+    utils.desktop.edit "Exec" "bash -c \"/opt/apps/$PACKAGE/files/cataclysm-launcher --userdir \\\$HOME/.local/share/cdda/\""
     utils.desktop.edit "Icon" "$PACKAGE"
     utils.desktop.append "Name[zh_CN]" "大灾变：劫后余生" "Desktop Entry"
 }
